@@ -10,19 +10,10 @@
 
   
 ### Challenges Faced During Website Development 
-- Learning Curve with Vue.js: Learning a new technology like Vue.js within a short timeframe can indeed be challenging, especially for beginners. It might be helpful to explore more beginner-friendly resources, such as online courses or tutorials with thorough explanations. Additionally, seeking assistance from peers or forums when encountering difficulties can accelerate the learning process.
 
 - Design Challenges: Designing a website can be overwhelming for first-timers. Consider using website builders or templates as they can simplify the design process and provide a professional look. These tools often have user-friendly interfaces and pre-designed elements that you can customize to suit your needs.
 
 - Resource Availability: Sometimes, finding the right resources can be tricky. You can explore various online forums, communities, or even hire a mentor or tutor who can provide guidance tailored to your project's needs.
-
-- Time Management: Balancing the learning curve and project deadlines can be tough. It's essential to plan your project well in advance, allocate sufficient time for learning, and break down the development tasks into manageable steps.
-
-- Feedback and Iteration: As a first-time developer, seeking feedback from others, especially those with web development experience, can be invaluable. They can help identify areas for improvement and offer suggestions for enhancing your website's design and functionality.
-
-- Documentation and Online Resources: Make use of official documentation and reputable online resources. Sometimes, different tutorials or explanations can clarify concepts that might be initially unclear. Be patient and persistent in your learning process.
-  
-
   
 **Resource Availability:**
 - Explore Multiple Resources: Don't rely on a single resource. Explore different books, courses, tutorials, and forums to gain a well-rounded understanding.
@@ -49,7 +40,7 @@ I have used only front-end web technologies like
 - CSS                 
 - JavaScript
 - JQuery
-- CDN for JavaScript, VueJS, and CSS
+- JavaScript and CSS
 - Google Chrome Browser        
 - Microsoft Visual Studio Code
 
