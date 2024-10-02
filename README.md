@@ -1,4 +1,4 @@
-<h1 align="center">Pearl Of The Indian Ocean <br>Responsive Tourist Website Project </h1>
+<h1 align="center">Country Guide <br>Responsive Tourist Website Project </h1>
 
 <div align="center">
 <img  src="https://github.com/rihamnazeer/Pearl-Of-The-Indian-Ocean/assets/90144970/bbe848c9-a3b7-453e-ae25-768328b98edd">
